@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AquosRemoteControl", "AquosRemoteControl\AquosRemoteControl.csproj", "{182B752B-4174-43D6-B10C-F85EE4CF8B9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp", "TestConsoleApp\TestConsoleApp.csproj", "{514103B1-37B4-41BF-9D4B-7BFB11406FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182B752B-4174-43D6-B10C-F85EE4CF8B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182B752B-4174-43D6-B10C-F85EE4CF8B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182B752B-4174-43D6-B10C-F85EE4CF8B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182B752B-4174-43D6-B10C-F85EE4CF8B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514103B1-37B4-41BF-9D4B-7BFB11406FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514103B1-37B4-41BF-9D4B-7BFB11406FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514103B1-37B4-41BF-9D4B-7BFB11406FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514103B1-37B4-41BF-9D4B-7BFB11406FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
